@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.notion.so/invite/01db9e07005a959395a5ba174bef6cd8a029cee2" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=square&logo=Notion&logoColor=white"/></a>  
+<a href="hollow-jellyfish-a24.notion.site" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=square&logo=Notion&logoColor=white"/></a>  
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifetime&show_icons=true&theme=gruvbox_light)
 ---
