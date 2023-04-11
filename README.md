@@ -53,7 +53,7 @@
 
 - **Notion**:
 	
-	<a href="https://www.notion.so/invite/5a10ce67ee35df059e5282af2193c8a13181c75d" target="_blank">
+	<a href="https://www.notion.so/invite/75ff3599d32e7f4c47dda56dc38b687d09f27205" target="_blank">
 	<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt=linkedin/ >
 	</a>
 
